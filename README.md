@@ -1,4 +1,4 @@
-#Pong
+Pong - Gave up on wordle
 
 CIS1051 Final w/ Kevin
 
