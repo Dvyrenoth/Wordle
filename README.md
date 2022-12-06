@@ -29,4 +29,4 @@ One of these is trimmed. The other isn't. Good Luck.
 One is saving you, the other is a full minute longer of just us waiting. Enjoy
 
 Video - https://youtu.be/CdZtqwyfjuA
-Video - https://youtu.be/qBOzAsej6S4
+Video - https://youtu.be/HUvcpp2NJ_A
