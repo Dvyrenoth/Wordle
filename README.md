@@ -22,3 +22,7 @@ Pong6.py
 
 Pong7.py 
 - Ball Collision with Paddles, bit funky aim for the middle. 
+
+Some difficulties we faced through this project were ball collision, as well as the flashing of the scoreboard. We learned how to improve on our turtle functions and we learned more imports, such as the time import. We enjoyed coding the turtles as well as figuring out how to set keybinds with them. We never managed to figure out how to fix the left paddle. We also never figured out how to add powerups, or a second ball.
+
+Video - https://youtu.be/qBOzAsej6S4
